@@ -1,0 +1,12 @@
+/Users/bruger/Documents/Github/3D-programmin-class-excersises/Excersises/Excersises1/bin/Debug/netcoreapp3.1/Excersises1.deps.json
+/Users/bruger/Documents/Github/3D-programmin-class-excersises/Excersises/Excersises1/bin/Debug/netcoreapp3.1/Excersises1.runtimeconfig.json
+/Users/bruger/Documents/Github/3D-programmin-class-excersises/Excersises/Excersises1/bin/Debug/netcoreapp3.1/Excersises1.runtimeconfig.dev.json
+/Users/bruger/Documents/Github/3D-programmin-class-excersises/Excersises/Excersises1/bin/Debug/netcoreapp3.1/Excersises1.dll
+/Users/bruger/Documents/Github/3D-programmin-class-excersises/Excersises/Excersises1/bin/Debug/netcoreapp3.1/Excersises1.pdb
+/Users/bruger/Documents/Github/3D-programmin-class-excersises/Excersises/Excersises1/obj/Debug/netcoreapp3.1/Excersises1.csprojAssemblyReference.cache
+/Users/bruger/Documents/Github/3D-programmin-class-excersises/Excersises/Excersises1/obj/Debug/netcoreapp3.1/Excersises1.AssemblyInfoInputs.cache
+/Users/bruger/Documents/Github/3D-programmin-class-excersises/Excersises/Excersises1/obj/Debug/netcoreapp3.1/Excersises1.AssemblyInfo.cs
+/Users/bruger/Documents/Github/3D-programmin-class-excersises/Excersises/Excersises1/obj/Debug/netcoreapp3.1/Excersises1.csproj.CoreCompileInputs.cache
+/Users/bruger/Documents/Github/3D-programmin-class-excersises/Excersises/Excersises1/obj/Debug/netcoreapp3.1/Excersises1.dll
+/Users/bruger/Documents/Github/3D-programmin-class-excersises/Excersises/Excersises1/obj/Debug/netcoreapp3.1/Excersises1.pdb
+/Users/bruger/Documents/Github/3D-programmin-class-excersises/Excersises/Excersises1/obj/Debug/netcoreapp3.1/Excersises1.genruntimeconfig.cache
